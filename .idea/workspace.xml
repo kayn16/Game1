@@ -4,14 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ade72c-8620-491f-89ea-4a7964d02696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54ade72c-8620-491f-89ea-4a7964d02696" name="Changes" comment="First Game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/music.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/pop.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Bullets/light_bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L10P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L11P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L1E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L2E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L3E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L4E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L5E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L6E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L7E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L8E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/L9P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R10P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R11P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R1E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R2E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R3E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R4E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R5E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R6E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R7E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R8E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enemy/R9P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/L9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/R9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero/standing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +69,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kayn16&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kayn16/Game1&quot;,
+    &quot;accountId&quot;: &quot;da939fc8-fa2f-4745-9797-a32427f85fa2&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -40,19 +93,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Game.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Game.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Game" />
@@ -75,12 +128,26 @@
       <option name="presentableId" value="Default" />
       <updated>1734436649761</updated>
       <workItem from="1734436650832" duration="424000" />
-      <workItem from="1734437086582" duration="18488000" />
+      <workItem from="1734437086582" duration="19160000" />
+      <workItem from="1735043665001" duration="1442000" />
     </task>
+    <task id="LOCAL-00001" summary="First Game">
+      <option name="closed" value="true" />
+      <created>1734459672124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734459672124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Game" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Game$Game.coverage" NAME="Game Coverage Results" MODIFIED="1734459465014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
